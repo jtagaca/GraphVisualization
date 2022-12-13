@@ -23,7 +23,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "echo graphvisualization.jtagaca.live > ./build/CNAME && gh-pages -d build"
+    "deploy": "echo pathfinder.jtagaca.live > ./build/CNAME && gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
